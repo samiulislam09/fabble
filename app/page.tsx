@@ -89,7 +89,7 @@ export default function ComingSoonPage() {
           <p className="text-sm text-stone-500 font-medium mb-6">Follow our journey</p>
           <div className="flex items-center justify-center gap-6">
             <a
-              href="https://facebook.com/fabble"
+              href="https://facebook.com/fabble32"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-white border border-stone-300 text-stone-900 hover:bg-stone-50 hover:border-stone-400 transition"
@@ -98,7 +98,7 @@ export default function ComingSoonPage() {
               <Facebook size={20} />
             </a>
             <a
-              href="https://instagram.com/fabble"
+              href="https://instagram.com/fabble32"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-white border border-stone-300 text-stone-900 hover:bg-stone-50 hover:border-stone-400 transition"
@@ -106,15 +106,7 @@ export default function ComingSoonPage() {
             >
               <Instagram size={20} />
             </a>
-            <a
-              href="https://tiktok.com/@fabble"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="p-3 rounded-full bg-white border border-stone-300 text-stone-900 hover:bg-stone-50 hover:border-stone-400 transition"
-              aria-label="Follow on TikTok"
-            >
-              <Music2 size={20} />
-            </a>
+            
           </div>
         </div>
 
